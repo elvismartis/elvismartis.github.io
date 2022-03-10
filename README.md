@@ -15,7 +15,7 @@ categories: []
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<h4 style="text-align: center;">About Elvis</h4>
+<h4 style="text-align: center;">About Me</h4>
 <p style="text-align: left;"><span class="fontstyle0">Elvis is currently an Assistant Professor of Pharmaceutical Chemistry at Bombay College of Pharmacy and a computational chemist working on various drug discovery projects.</span></p>
 <p style="text-align: left;"><span class="fontstyle0">After earning a bachelor’s degrees in Pharmacy from V.E.S. College of Pharmacy (University of Mumbai) in 2011, Elvis pursued a master’s degree in Pharmaceutical Chemistry at Bombay College of Pharmacy in 2014. He completed his PhD in Computational Chemistry under Prof Dr Evans Coutinho also at Bombay College of Pharmacy in 2019. </span></p>
 <p style="text-align: left;"><span class="fontstyle0">During his PhD, Elvis developed methods to understand drug-resistant mutations using computer simulations.  </span></p>
